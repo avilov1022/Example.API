@@ -1,0 +1,33 @@
+D:\ASP TEST\Example.Domain\bin\Debug\net8.0\Example.Domain.deps.json
+D:\ASP TEST\Example.Domain\bin\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\Example.Domain\bin\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\Example.Domain\obj\Debug\net8.0\Example.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP TEST\Example.Domain\obj\Debug\net8.0\Example.Domain.AssemblyInfoInputs.cache
+D:\ASP TEST\Example.Domain\obj\Debug\net8.0\Example.Domain.AssemblyInfo.cs
+D:\ASP TEST\Example.Domain\obj\Debug\net8.0\Example.Domain.csproj.CoreCompileInputs.cache
+D:\ASP TEST\Example.Domain\obj\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\Example.Domain\obj\Debug\net8.0\refint\Example.Domain.dll
+D:\ASP TEST\Example.Domain\obj\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\Example.Domain\obj\Debug\net8.0\ref\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.Domain\bin\Debug\net8.0\Example.Domain.deps.json
+D:\ASP TEST\ExampleApp\Example.Domain\bin\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.Domain\bin\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\ExampleApp\Example.Domain\obj\Debug\net8.0\Example.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP TEST\ExampleApp\Example.Domain\obj\Debug\net8.0\Example.Domain.AssemblyInfoInputs.cache
+D:\ASP TEST\ExampleApp\Example.Domain\obj\Debug\net8.0\Example.Domain.AssemblyInfo.cs
+D:\ASP TEST\ExampleApp\Example.Domain\obj\Debug\net8.0\Example.Domain.csproj.CoreCompileInputs.cache
+D:\ASP TEST\ExampleApp\Example.Domain\obj\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.Domain\obj\Debug\net8.0\refint\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.Domain\obj\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\ExampleApp\Example.Domain\obj\Debug\net8.0\ref\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\bin\Debug\net8.0\Example.Domain.deps.json
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\bin\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\bin\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\obj\Debug\net8.0\Example.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\obj\Debug\net8.0\Example.Domain.AssemblyInfoInputs.cache
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\obj\Debug\net8.0\Example.Domain.AssemblyInfo.cs
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\obj\Debug\net8.0\Example.Domain.csproj.CoreCompileInputs.cache
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\obj\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\obj\Debug\net8.0\refint\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\obj\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Domain\obj\Debug\net8.0\ref\Example.Domain.dll

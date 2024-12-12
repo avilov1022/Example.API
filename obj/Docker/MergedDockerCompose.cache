@@ -1,0 +1,65 @@
+name: dockercompose11006860270375751922
+services:
+  backend:
+    build:
+      context: D:\ASP TEST\ExampleApp\Example.API dapper
+      dockerfile: Example.API/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+    image: exampleapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "5000"
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        published: "5001"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\Данил\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\Данил\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+  client:
+    build:
+      context: D:\ASP TEST\ExampleApp\Example.API dapper\example-client
+      dockerfile: Dockerfile
+    image: client
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 3000
+        published: "8000"
+        protocol: tcp
+  proxy:
+    image: nginx:mainline
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "80"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: D:\ASP TEST\ExampleApp\Example.API dapper\nginx.conf
+        target: /etc/nginx/nginx.conf
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose11006860270375751922_default

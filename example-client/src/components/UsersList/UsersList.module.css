@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.users_list{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+    width: 335px;
+    padding: 17px;
+    /* background-color: #d9d9d9; */
+    height: 100%;
+
+}
+
+.users_list__list{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style: none;
+}
+
+.test{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}

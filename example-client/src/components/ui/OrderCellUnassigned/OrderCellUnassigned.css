@@ -1,0 +1,17 @@
+.order-cell-unassigned{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 235px;
+    min-width: 150px;
+    height: 257px;
+    background: #d9d9d9;
+    border-radius: 10px;
+
+    cursor: pointer;
+}
+
+.order-cell__add{
+    width: 30px;
+}

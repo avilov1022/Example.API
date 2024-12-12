@@ -1,0 +1,45 @@
+D:\ASP TEST\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.deps.json
+D:\ASP TEST\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.dll
+D:\ASP TEST\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.pdb
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.csproj.AssemblyReference.cache
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.AssemblyInfo.cs
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.dll
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\refint\Example.Infrastructure.dll
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.pdb
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\ref\Example.Infrastructure.dll
+D:\ASP TEST\Example.Infrastructure\bin\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\Example.Infrastructure\bin\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\Example.Infrastructure\obj\Debug\net8.0\Example..F58CCFE9.Up2Date
+D:\ASP TEST\ExampleApp\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.deps.json
+D:\ASP TEST\ExampleApp\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.dll
+D:\ASP TEST\ExampleApp\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.pdb
+D:\ASP TEST\ExampleApp\Example.Infrastructure\bin\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.Infrastructure\bin\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.csproj.AssemblyReference.cache
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.AssemblyInfo.cs
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\Example..F58CCFE9.Up2Date
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.dll
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\refint\Example.Infrastructure.dll
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.pdb
+D:\ASP TEST\ExampleApp\Example.Infrastructure\obj\Debug\net8.0\ref\Example.Infrastructure.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.deps.json
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\bin\Debug\net8.0\Example.Infrastructure.pdb
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\bin\Debug\net8.0\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\bin\Debug\net8.0\Example.Domain.pdb
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.csproj.AssemblyReference.cache
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.AssemblyInfoInputs.cache
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.AssemblyInfo.cs
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\Example..F58CCFE9.Up2Date
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\refint\Example.Infrastructure.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\Example.Infrastructure.pdb
+D:\ASP TEST\ExampleApp\Example.API dapper\Example.Infrastructure\obj\Debug\net8.0\ref\Example.Infrastructure.dll

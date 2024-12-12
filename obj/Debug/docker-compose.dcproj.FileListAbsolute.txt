@@ -1,0 +1,35 @@
+D:\ASP TEST\Example.API\bin\Debug\Example.API.deps.json
+D:\ASP TEST\Example.API\bin\Debug\Example.API.runtimeconfig.json
+D:\ASP TEST\Example.API\bin\Debug\appsettings.Development.json
+D:\ASP TEST\Example.API\bin\Debug\appsettings.json
+D:\ASP TEST\Example.API\bin\Debug\Example.API.exe
+D:\ASP TEST\Example.API\bin\Debug\Example.API.dll
+D:\ASP TEST\Example.API\bin\Debug\Example.Domain.dll
+D:\ASP TEST\Example.API\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP TEST\Example.API\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP TEST\Example.API\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP TEST\Example.API\bin\Debug\Microsoft.OpenApi.dll
+D:\ASP TEST\Example.API\bin\Debug\Example.API.pdb
+D:\ASP TEST\Example.API\bin\Debug\Example.Domain.pdb
+D:\ASP TEST\Example.API\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\ASP TEST\Example.API\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\ASP TEST\Example.API\obj\Debug\docker-c.35A3FFBA.Up2Date
+D:\ASP TEST\ExampleApp\Example.API dapper\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.API.deps.json
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.API.runtimeconfig.json
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\appsettings.Development.json
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\appsettings.json
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.API.exe
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.API.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.Infrastructure.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.Domain.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Dapper.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Microsoft.OpenApi.dll
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.API.pdb
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.Infrastructure.pdb
+D:\ASP TEST\ExampleApp\Example.API dapper\bin\Debug\Example.Domain.pdb
+D:\ASP TEST\ExampleApp\Example.API dapper\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\ASP TEST\ExampleApp\Example.API dapper\obj\Debug\docker-c.35A3FFBA.Up2Date
